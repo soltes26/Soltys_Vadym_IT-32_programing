@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2026-11-02",
+    "category": "food",
+    "amount": 85.5,
+    "comment": "lunch"
+  },
+  {
+    "date": "2026-11-02",
+    "category": "transport",
+    "amount": 30.0,
+    "comment": "bus"
+  },
+  {
+    "date": "2026-11-03",
+    "category": "food",
+    "amount": 120.0,
+    "comment": "groceries"
+  },
+  {
+    "date": "2026-11-03",
+    "category": "study",
+    "amount": 65.0,
+    "comment": "printing"
+  },
+  {
+    "date": "2026-11-04",
+    "category": "food",
+    "amount": 95.4,
+    "comment": "dinner"
+  },
+  {
+    "date": "2026-11-04",
+    "category": "entertainment",
+    "amount": 250.0,
+    "comment": "cinema"
+  },
+  {
+    "date": "2026-11-05",
+    "category": "transport",
+    "amount": 45.0,
+    "comment": "metro"
+  },
+  {
+    "date": "2026-11-06",
+    "category": "food",
+    "amount": 310.2,
+    "comment": "groceries"
+  },
+  {
+    "date": "2026-11-06",
+    "category": "clothes",
+    "amount": 899.0,
+    "comment": "jacket"
+  },
+  {
+    "date": "2026-11-08",
+    "category": "food",
+    "amount": 140.0,
+    "comment": "cafe"
+  },
+  {
+    "date": "2026-11-05",
+    "category": "transport",
+    "amount": 8.5,
+    "comment": "tram"
+  },
+  {
+    "date": "2026-11-07",
+    "category": "food",
+    "amount": 5.0,
+    "comment": "water"
+  }
+]
